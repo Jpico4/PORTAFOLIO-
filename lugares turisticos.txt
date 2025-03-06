@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Destinos Turísticos</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Mis Lugares Turísticos Favoritos</h1>
+    </header>
+    
+    <section>
+        <article>
+            <h2>Machu Picchu</h2>
+            <img src="machu_picchu.jpg" alt="Machu Picchu" loading="lazy">
+            <p>Una ciudadela inca en Perú, famosa por su arquitectura e historia.</p>
+            <p><strong>Ubicación:</strong> Andes peruanos, cerca de Cusco.</p>
+        </article>
+        
+        <article>
+            <h2>Torre Eiffel</h2>
+            <img src="torre_eiffel.jpg" alt="Torre Eiffel" loading="lazy">
+            <p>Icono de París, Francia, construido en 1889.</p>
+            <p><strong>Ubicación:</strong> París, Francia.</p>
+        </article>
+        
+        <article>
+            <h2>Gran Muralla China</h2>
+            <img src="gran_muralla.jpg" alt="Gran Muralla China" loading="lazy">
+            <p>Una de las estructuras más largas y antiguas del mundo.</p>
+            <p><strong>Ubicación:</strong> China.</p>
+        </article>
+        
+        <article>
+            <h2>Cataratas del Iguazú</h2>
+            <img src="cataratas_iguazu.jpg" alt="Cataratas del Iguazú" loading="lazy">
+            <p>Un impresionante sistema de cascadas en Sudamérica.</p>
+            <p><strong>Ubicación:</strong> Frontera entre Argentina y Brasil.</p>
+        </article>
+        
+        <article>
+            <h2>Chichén Itzá</h2>
+            <img src="chichen_itza.jpg" alt="Chichén Itzá" loading="lazy">
+            <p>Una de las ciudades mayas más importantes.</p>
+            <p><strong>Ubicación:</strong> Yucatán, México.</p>
+        </article>
+    </section>
+</body>
+</html>
