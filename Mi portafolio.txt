@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portafolio Personal</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Mi Portafolio</h1>
+        <p><strong>Nombre:</strong> Jasso Pico</p>
+        <p>Estudiante de 5 semestre de ingenieria de sistemas en la universidad de la costa.</p>
+    </header>
+    
+    <section>
+        <h2>Habilidades</h2>
+        <ul>
+            <li>HTML & CSS</li>
+            <li>JavaScript</li>
+            <li>React.js</li>
+            <li>Git & GitHub</li>
+            <li>Python</li>
+        </ul>
+    </section>
+    
+    <section>
+        <h2>Libros Leídos</h2>
+        <ul>
+            <li>
+                <p><strong>"El Alquimista"</strong> - Paulo Coelho</p>
+                <img src="el_alquimista.jpg" alt="Portada de El Alquimista" loading="lazy">
+            </li>
+            <li>
+                <p><strong>"Clean Code"</strong> - Robert C. Martin</p>
+                <img src="clean_code.jpg" alt="Portada de Clean Code" loading="lazy">
+            </li>
+            <li>
+                <p><strong>"The Pragmatic Programmer"</strong> - Andrew Hunt</p>
+                <img src="pragmatic_programmer.jpg" alt="Portada de The Pragmatic Programmer" loading="lazy">
+            </li>
+        </ul>
+    </section>
+</body>
+</html>
